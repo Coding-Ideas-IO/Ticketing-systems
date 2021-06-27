@@ -122,7 +122,7 @@ class _FourthTabState extends State<FourthTab> {
               SizedBox(
                 height: 35,
               ),
-              buildTextField("Full Name", "Angeli Monterrosa", false),
+              buildTextField("Full Name", "Angeli Smith", false),
               buildTextField("E-mail", "angeli@gmail.com", false),
               buildTextField("Password", "********", true),
               buildTextField("Location", "Cayo, Belmopan", false),

@@ -33,6 +33,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ticket_system/components/navigator.dart';
 import 'package:ticket_system/screens/editusers.dart';
+import 'package:ticket_system/screens/login.dart';
 
 class ThirdTab extends StatefulWidget {
   @override
@@ -153,7 +154,12 @@ class _ThirdTabState extends State<ThirdTab> {
                 padding: EdgeInsets.symmetric(horizontal: 40),
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(20)),
-                onPressed: () {},
+                onPressed: () {
+  Navigator.push(
+    context,
+    MaterialPageRoute(builder: (context) => LoginScreen()),
+  );
+},
                 child: Text("SIGN OUT",
                     style: TextStyle(
                         fontSize: 16, letterSpacing: 2.2, color: Colors.black)),
