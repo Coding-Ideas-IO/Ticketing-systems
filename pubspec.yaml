@@ -33,6 +33,14 @@ dependencies:
   qr_flutter: ^4.0.0
   flutter_login: ^2.0.0
   font_awesome_flutter: ^9.1.0
+  geolocator: ^7.2.0+1
+  permission_handler: ^8.1.1
+  flutter_bloc: ^7.0.1
+  google_maps_flutter: ^2.0.6
+  dio: ^4.0.0
+  animate_do: ^2.0.0
+  
+
  
 
 dev_dependencies:

@@ -3,6 +3,9 @@
    <application
         android:label="ticket_system"
         android:icon="@mipmap/ic_launcher">
+
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyCAEHWzjXhKC7Ok0uex5PMKJ39r-u-tgvo"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

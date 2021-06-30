@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Ticketing system',
       theme: ThemeData(
-        // primaryColor: Color(0xFF26C6DA),
-        primaryColor: Colors.lightBlue,
+         primaryColor: Color(0xFF26C6DA),
+        //primaryColor: Colors.lightBlue,
        // splashColor: Colors.orange,
        
       ),

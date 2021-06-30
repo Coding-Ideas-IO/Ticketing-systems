@@ -109,7 +109,7 @@ class SecondTab extends StatelessWidget {
                   children: [
                     Text('Owner:'),
                     VerticalDivider(),
-                    Text('Angeli Monterrosa')
+                    Text('Angeli Smith')
                   ],
                   // be carefull with the $ since it's used to put variables
                   // into strings, eg Text('Name : $name ')
