@@ -1,3 +1,4 @@
 # ticket_system
 
-![Alt Text](Ticketing-systems/assets/App demo.gif)<br>
+# Proof of Concept<br>
+![Alt Text](assets/App demo.gif)<br>
