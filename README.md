@@ -1,3 +1,3 @@
 # ticket_system
 
-![Alt Text](src/assets/App demo.gif)<br>
+![Alt Text](Ticketing-systems/assets/App demo.gif)<br>
