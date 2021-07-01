@@ -1,3 +1,3 @@
-# ticket_system
+# Ticket System
 
 ![](assets/appdemo.gif)
