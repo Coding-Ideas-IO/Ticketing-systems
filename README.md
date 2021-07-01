@@ -3,4 +3,4 @@
 
 # Proof of Concept<br>
 
-![](assets/App demo.gif)
+![](assets/appdemo.gif)
